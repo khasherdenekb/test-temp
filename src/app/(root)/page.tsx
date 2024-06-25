@@ -1,6 +1,6 @@
-import { ContentLayout } from "@/components/layout/content-layout";
-import ContentCard from "@/components/layout/content-card";
 import { BreadcrumbDynamic } from "@/components/dynamic/breadcrumb-dynamic";
+import { ContentCard } from "@/components/layout/body/content-card";
+import { ContentLayout } from "@/components/layout/body/content-layout";
 
 export default function HomePage2() {
   return (

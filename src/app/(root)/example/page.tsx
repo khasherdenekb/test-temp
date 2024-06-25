@@ -1,6 +1,6 @@
-import ContentCard from "@/components/layout/content-card";
-import { ContentLayout } from "@/components/layout/content-layout";
 import { BreadcrumbDynamic } from "@/components/dynamic/breadcrumb-dynamic";
+import { ContentCard } from "@/components/layout/body/content-card";
+import { ContentLayout } from "@/components/layout/body/content-layout";
 
 const Example = () => {
   // TODO: ContentLayout-р children хучиж өгнө.

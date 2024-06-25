@@ -1,5 +1,5 @@
-import ContentCard from "@/components/layout/content-card";
-import { ContentLayout } from "@/components/layout/content-layout";
+import { ContentCard } from "@/components/layout/body/content-card";
+import { ContentLayout } from "@/components/layout/body/content-layout";
 import React from "react";
 import { MyForm } from "./_components/demo-form";
 import { BreadcrumbDynamic } from "@/components/dynamic/breadcrumb-dynamic";

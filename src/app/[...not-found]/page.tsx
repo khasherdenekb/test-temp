@@ -2,6 +2,8 @@
 import { Button } from "@/components/ui/button";
 import { useRouter } from "next/navigation";
 
+//* 404 байхгүй хуудсанд default харагдана
+//* DO NOT CHANGE IT
 export default function NotFoundError() {
   const router = useRouter();
   return (
